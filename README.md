@@ -1,11 +1,12 @@
 ## Hi there 🙏
 
 I work in corporate strategy & analytics at [Intel](https://www.intel.com/content/www/us/en/homepage.html). I lead competitive strategy development and mobilization across AI computing and networking in the datacenter. 
+
 I am also a graduate of [UC Berkeley's Master's in Information & Data Science program](https://www.ischool.berkeley.edu/programs/mids) where I specialized in NLP, ML systems engineering, and generative AI.
 
 On my GitHub, you'll find academic and personal projects.
 
-Here's a link to my [resume](https://drive.google.com/file/d/1RCpZqLeYqPCLYEI1Kq0OE6vjxVX7Z8NX/view?usp=sharing)
+If you're interested in learning more about my academic and professional experience, take a look at my [resume](https://drive.google.com/file/d/1RCpZqLeYqPCLYEI1Kq0OE6vjxVX7Z8NX/view?usp=sharing).
 
 <!--
 **andrewabrahamian/andrewabrahamian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

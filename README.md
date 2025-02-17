@@ -6,7 +6,7 @@ I am also a graduate of [UC Berkeley's Master's in Information & Data Science pr
 
 On my GitHub, you'll find academic and personal projects.
 
-If you're interested in learning more about my academic and professional experience, take a look at my [resume](https://github.com/andrewabrahamian/personal/blob/c6197a028c7bdf11c48bec13cc8306a942fa63c6/Andrew%20Abrahamian%20-%20Resume%20(24-10-17).pdf).
+If you're interested in learning more about my academic and professional experience, take a look at my [resume](https://github.com/andrewabrahamian/personal/blob/main/Andrew%20Abrahamian%20-%20Resume%20(25-02-17).pdf).
 
 <!--
 **andrewabrahamian/andrewabrahamian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
